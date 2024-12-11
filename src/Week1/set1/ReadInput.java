@@ -1,4 +1,4 @@
-package Week1.com.set1;
+package Week1.set1;
 import java.util.Scanner;
 
 class ReadInput{

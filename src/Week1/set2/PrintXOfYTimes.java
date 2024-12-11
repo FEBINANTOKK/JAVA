@@ -1,4 +1,4 @@
-package Week1.com;
+package Week1.set2;
 
 import java.util.Scanner;
 
