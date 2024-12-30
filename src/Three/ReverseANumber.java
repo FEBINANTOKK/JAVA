@@ -1,4 +1,4 @@
-package Week3.com;
+package Three;
 
 import java.util.Scanner;
 
@@ -9,6 +9,7 @@ public class ReverseANumber {
         Scanner scan= new Scanner(System.in);
         int n=scan.nextInt();
 int rev=0;
+
         while(n>0){
             int last=n%10;
             rev=rev*10+last;
@@ -17,5 +18,6 @@ int rev=0;
 
         }
         System.out.println(rev);
+        
     }
 }

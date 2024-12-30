@@ -1,4 +1,4 @@
-package Week3.com;
+package Three;
 
 import java.util.Scanner;
 
