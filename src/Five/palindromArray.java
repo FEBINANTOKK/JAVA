@@ -24,5 +24,9 @@ public class palindromArray {
         else {
             System.out.println("Not Palindrom");
         }
+
+
+
+
     }
 }
